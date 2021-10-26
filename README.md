@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a web development student, focused on the main frontend technologies
+- 🔭 I’m currently a web development student, focused on the frontend.
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about HTML and CSS
 - 📫 How to reach me: <a href="https://instagram.com/mateusdev_/" target="_blank">Instagram</a>
