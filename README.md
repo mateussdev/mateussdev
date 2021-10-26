@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a web development student, focused on the frontend.
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about HTML and CSS
-- 📫 How to reach me: <a href="https://instagram.com/mateusdev_/" target="_blank">Instagram</a>
+- 📫 How to reach me: <a href="https://instagram.com/mateusdev_/" target="_blank">HERE🔗</a>
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: I don't like coffee
 <!-- - 👯 I’m looking to collaborate on ... 
