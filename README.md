@@ -28,6 +28,22 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
 
+<br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<!-- <a href="https://twitter.com/mateusfps" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mateusfps-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a> -->
+<a href="https://linkedin.com/in/mateussdev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mateussdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<!-- <a href="https://instagram.com/mateusdev_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mateusdev_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a> -->
+</p>
+
 <!-- - 😄 Pronouns: He | Him -->
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
