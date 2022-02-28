@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a web development student, focused on the frontend.
+- 🔭 I’m currently a web developer student, focused on the frontend.
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about HTML and CSS
 - ⚡ Fun fact: I don't like coffee
