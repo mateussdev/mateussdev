@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about HTML and CSS
 - 📫 How to reach me: <a href="mailto:contato.mateussdev@gmail.com" target="_blank">HERE🔗</a>
-<!-- - 😄 Pronouns: He | Him -->
 - ⚡ Fun fact: I don't like coffee
+<!-- - 😄 Pronouns: He | Him -->
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
