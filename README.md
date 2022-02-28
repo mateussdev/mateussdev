@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:contato.mateussdev@gmail.com" target="_blank">HERE🔗</a>
 - ⚡ Fun fact: I don't like coffee
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
